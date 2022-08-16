@@ -1,0 +1,58 @@
+{
+  "createRequest":
+  {
+    "id": 1,
+    "name":"Alex",
+    "age":21,
+    "email":"alexmail@gmail.com"
+  },
+  "putRequest":{
+    "id": 1,
+    "name":"Alex",
+    "age": 22,
+    "email":"alexmail@gmail.com"
+  },
+  "createRequest1":{
+    "id":"Al1",
+    "name":"Alex",
+    "age":21,
+    "email":"alexexample@gmail.com"
+  },
+  "putRequest1":
+  {
+    "id": 1,
+    "name":"Alex",
+    "age": "22",
+    "email":"alexmail@gmail.com"
+  },
+  "createComment":
+  {
+    "name": "Alexa",
+    "email": "Alexamail@smail.com",
+    "body": "This is my comment."
+  },
+  "putComment":
+  {
+    "name": "Alexa",
+    "email": "Alexa13@samplemail.com",
+    "body": "This is my first comment"
+  },
+  "createTodo":
+  {
+    "title": "Completion",
+    "due_on": "2022-08-23T00:00:00.000+05:30",
+    "status": "pending"
+  },
+  "putTodo":
+  {
+    "title": "Completion",
+    "due_on": "2020-08-30T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "error":{
+    "name":"Alexis",
+    "gender":"female",
+    "email":"Alexis@samplemail.com",
+    "status":""
+  }
+}
